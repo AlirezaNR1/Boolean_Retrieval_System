@@ -51,8 +51,9 @@ To use the Boolean Retrieval System, follow these steps:
 We're excited to hear from you! If you have any questions, suggestions, or need assistance, don't hesitate to reach out.
 Feel free to contact us via email at:
 
-- neg.jaafari@gmail.com
 - noorbakhsha1@gmail.com.
+
+- neg.jaafari@gmail.com
   
 We're here to help and would love to hear about your experience using this project.
 
